@@ -1,3 +1,6 @@
+Простое приложение для создания мемов для развлечения. React + API 
+![image](https://user-images.githubusercontent.com/65072293/219961315-7ebe35fe-2349-4bfe-8c7f-d7314293cab1.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
